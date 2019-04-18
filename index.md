@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: launch
 permalink: /
 title: "Latest Posts"
 ---
