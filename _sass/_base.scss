@@ -9,6 +9,9 @@
 body {
 	font-family: $base-font;
 	background-color: $body-color;
+	backround-image: url(images/logo.svg);
+	background-position: center;
+	background-width: 50%;
 	color: $text-color;
 	@include font-size(16);
 }
